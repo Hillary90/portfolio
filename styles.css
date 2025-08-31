@@ -284,14 +284,14 @@ form input{
 
 footer{
   display: flex;
-  flex-direction: row;
+  align-items: center;
   justify-content: center;
   gap:10em;
   bottom: 0;
-  width: 100;
+  width: 100%;
   padding: 5em 15% ;
 }
-.col-left {
+.col-left{
   display: flex;
   flex-direction: column;
   gap: 1em;
@@ -305,20 +305,38 @@ footer{
 .col-box i {
   font-size: 2em;
 }
-.co-box span {
+.col-box span {
   font-size: 1.2em;
 }
 .col-right {
   display: flex;
   flex-direction: column;
+  align-self: flex-end;
   gap: 1em;
   max-width:500px;
   color: whitesmoke;
 }
-.social-icons i {
-  font-size: 2em;
+
+.col-right span{
+  font-size: 1.2em;
 }
 
+.col-box .social-icons  {
+  display: flex;
+  align-items: baseline;
+  justify-content: left;
+  gap: 1em;
+
+}
+
+.col-right .social-icons{
+  font-size: 2em;
+  transition: 0.2ms ease-in-out;
+  cursor: pointer;
+}
+ .social-icons i:hover{
+  color: #ffff;
+ }
 
 
 
