@@ -13,8 +13,8 @@ This portfolio is a single-page application designed with a mobile-first approac
 
 
 ## Key Technologies Used.
-- HTML:used an html to structure my portfolio.
-- CSS:for styling my portfolio.
+- HTML: used an html to structure my portfolio.
+- CSS: for styling my portfolio.
 - Javascript: for making my portfolio interactive.
 
 ## Features
