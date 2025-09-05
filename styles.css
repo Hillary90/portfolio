@@ -377,6 +377,11 @@ footer{
     color: whitesmoke;
   }
 
+  .darkMode{
+    background-color: white;
+    color: black;
+  }
+
   .links.active {
     display: block;
 

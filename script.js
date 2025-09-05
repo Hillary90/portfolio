@@ -14,3 +14,8 @@ document.addEventListener('DOMContentLoaded',()=> {
 
 });
 
+let body = document.querySelector('body');
+let choice = 'lightMode';
+
+choice === 'lightMode' ? body.classList.add('lightMode') : null;
+
