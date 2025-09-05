@@ -9,17 +9,18 @@ Hello! I'm Hillary Tanui, a dedicated full-stack developer and computer scientis
 
 This portfolio is a single-page application designed with a mobile-first approach to ensure a seamless experience on any device. I focused on clean design and an intuitive user interface to allow visitors to easily navigate my projects and learn about my professional journey.
 
+## projects
+
 
 ## Key Technologies Used.
-" HTML:used an html to structure my portfolio.
-" CSS:for styling my portfolio.
-" Javascript: for making my portfolio interactive.
+- HTML:used an html to structure my portfolio.
+- CSS:for styling my portfolio.
+- Javascript: for making my portfolio interactive.
 
 ## Features
 
-"Skills Overview: A clear, concise list of my technical skills, including programming languages, frameworks, and tools.
-
-"Contact Form: A direct way for recruiters and collaborators to get in touch.
+- Skills Overview: A clear, concise list of my technical skills, including programming languages, frameworks, and tools.
+- Contact Form: A direct way for recruiters and collaborators to get in touch.
 
 ## Contact Me
 I'm always open to new opportunities and collaborations. Feel free to connect with me!
