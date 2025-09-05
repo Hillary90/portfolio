@@ -2,8 +2,7 @@
 
 ## Welcome to my professional portfolio.
 
-Hello! I'm Hillary Tanui, a dedicated full-stack developer and computer scientist with degree 
- from Kabarak University. This repository contains the source code for my personal portfolio website, which serves as a central hub for my professional work, technical skills, and a glimpse into my passion for technology. My goal is to use my skills to build robust, efficient, and innovative software that addresses real-world challenges.
+Hello! I'm Hillary Tanui, a dedicated full-stack developer with a passion for building robust and scalable applications. This repository contains the source code for my personal portfolio website, which serves as a central hub for my professional projects, skills, and contact information. My goal is to leverage my technical expertise to create innovative solutions that solve real-world problems.
 
 ## About the Website.
 
